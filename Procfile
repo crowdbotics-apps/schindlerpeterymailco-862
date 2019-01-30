@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT schindlerpeterymailco_862.wsgi:application
